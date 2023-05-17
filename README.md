@@ -1,2 +1,2 @@
-# rtk-helper
-C# -> JS
+### Помощник для web rtk
+```C# -> JS```
